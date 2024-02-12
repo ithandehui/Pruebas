@@ -62,3 +62,5 @@ texto = input ("texto en mayusculas")
 
 if (texto.isupper()):
     print(texto)
+
+print("me gusta lilis")
